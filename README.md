@@ -17,6 +17,8 @@ This is my personal portfolio website where I showcase my:
 💼 Projects
 🛠️ Skills
 📊 Experience
+
+
 📬 Contact details
 
 The goal of this portfolio is to create a clean, modern, and interactive experience for recruiters and developers.
